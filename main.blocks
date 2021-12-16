@@ -1,1 +1,7 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="%OI|ZjpnXx)422=#)%J;" x="0" y="0"/><block type="device_forever" id="(=-C]VHKs9#FJE{S+qLH" x="205" y="0"/></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="%OI|ZjpnXx)422=#)%J;" x="55" y="135"><statement name="HANDLER"><block type="device_show_leds" id="pIz~9re`i[|#1C.+b^{R"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field></block></statement></block><block type="device_forever" id="(=-C]VHKs9#FJE{S+qLH" x="286" y="131"><statement name="HANDLER"><block type="device_plot" id="f:q5h0xZL~Ii55uo-j~W"><value name="x"><shadow type="math_number_minmax" id="|FW*1!aNGYJTnv*9!A+="><mutation min="0" max="4" label="X" precision="1"/><field name="SLIDER">0</field></shadow><block type="device_random" id="b)sW=d/.1l6|5c3}1s.E"><value name="min"><shadow type="math_number" id="7!gh}E~LWgKV~2;JxLcO"><field name="NUM">0</field></shadow></value><value name="limit"><shadow type="math_number" id="1D[9_iA;?[t:`nImADyH"><field name="NUM">4</field></shadow></value></block></value><value name="y"><shadow type="math_number_minmax" id="._F}n-SX;#pvSe@!UaZL"><mutation min="0" max="4" label="Y" precision="1"/><field name="SLIDER">0</field></shadow><block type="device_random" id="zM~yqlM*(Bj4nTd6w=,$"><value name="min"><shadow type="math_number" id="F#h3E)F,H}-0^9,aYV7+"><field name="NUM">0</field></shadow></value><value name="limit"><shadow type="math_number" id="HPuYE-)@U!ISPm%{*zk`"><field name="NUM">4</field></shadow></value></block></value></block></statement></block></xml>
